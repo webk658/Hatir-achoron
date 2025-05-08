@@ -1,0 +1,15 @@
+{
+  "name": "হাতির আচরণ ও ব্যক্তিত্ব",
+  "short_name": "হাতি",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e88e5",
+  "icons": [
+    {
+      "src": "assets/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
